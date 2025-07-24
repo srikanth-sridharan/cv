@@ -3,10 +3,6 @@ Simple CV website template with easy configuration. Built with Next.js 14, TypeS
 
 Inspired by [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/95d08425-ef5a-4a93-a593-1d1b14913686" />
-</p>
-
 ## Running for local development
 1. Clone repository to your machine
 
