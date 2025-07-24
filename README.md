@@ -19,5 +19,3 @@ Inspired by [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)
     ```bash
     pnpm run dev
     ```
-
-Then you can make changes in [config file](https://github.com/kwrobinski/cv/blob/master/data/cv-data.ts).
