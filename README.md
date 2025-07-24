@@ -7,7 +7,7 @@ Inspired by [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)
 1. Clone repository to your machine
 
     ```bash
-    git clone https://github.com/kwrobinski/cv.git
+    git clone https://github.com/srikanth-sridharan/cv.git
     ```
 2. Install dependencies
 
