@@ -126,7 +126,6 @@ const RESUME_DATA: ResumeData = {
       position: "Full Stack Developer",
       time: "Jun 2015 - Nov 2023",
       duties: [
-        "Configuring and overseeing **CI/CD pipelines** specifically for frontend deployments, ensuring efficient and reliable release cycles.",
         "Working as a freelancer, setting up **WordPress sites** and coding them from scratch using **CodeIgniter**.",
         "Hosting client websites on **VPS**.",
         "Performing **React frontend designs** for clients from **Australia, the US, and the UK** sourced through **freelancer.com**, until the COVID-19 pandemic.",
